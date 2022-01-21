@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/find-institute-from-country/static/css/main.b47f4480.css",
+    "main.js": "/find-institute-from-country/static/js/main.eb66a977.js",
+    "static/js/787.94942e7d.chunk.js": "/find-institute-from-country/static/js/787.94942e7d.chunk.js",
+    "static/media/logo.svg": "/find-institute-from-country/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/find-institute-from-country/index.html",
+    "main.b47f4480.css.map": "/find-institute-from-country/static/css/main.b47f4480.css.map",
+    "main.eb66a977.js.map": "/find-institute-from-country/static/js/main.eb66a977.js.map",
+    "787.94942e7d.chunk.js.map": "/find-institute-from-country/static/js/787.94942e7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b47f4480.css",
+    "static/js/main.eb66a977.js"
+  ]
+}
